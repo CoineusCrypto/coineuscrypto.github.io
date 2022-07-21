@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.db05fb65.chunk.js",
-    "main.js.map": "/static/js/main.db05fb65.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.76df8149.js",
-    "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.8f3b16a8.chunk.js": "/static/js/2.8f3b16a8.chunk.js",
-    "static/js/2.8f3b16a8.chunk.js.map": "/static/js/2.8f3b16a8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.8f3b16a8.chunk.js.LICENSE.txt": "/static/js/2.8f3b16a8.chunk.js.LICENSE.txt",
-    "static/media/avax_logo.30dfa545.png": "/static/media/avax_logo.30dfa545.png",
-    "static/media/fook_logo.3822b487.jpeg": "/static/media/fook_logo.3822b487.jpeg",
-    "static/media/usdc_logo.b5121d0d.png": "/static/media/usdc_logo.b5121d0d.png"
+    "main.js": "/fook/static/js/main.db05fb65.chunk.js",
+    "main.js.map": "/fook/static/js/main.db05fb65.chunk.js.map",
+    "runtime-main.js": "/fook/static/js/runtime-main.121ef109.js",
+    "runtime-main.js.map": "/fook/static/js/runtime-main.121ef109.js.map",
+    "static/js/2.afbe5922.chunk.js": "/fook/static/js/2.afbe5922.chunk.js",
+    "static/js/2.afbe5922.chunk.js.map": "/fook/static/js/2.afbe5922.chunk.js.map",
+    "index.html": "/fook/index.html",
+    "static/js/2.afbe5922.chunk.js.LICENSE.txt": "/fook/static/js/2.afbe5922.chunk.js.LICENSE.txt",
+    "static/media/avax_logo.30dfa545.png": "/fook/static/media/avax_logo.30dfa545.png",
+    "static/media/fook_logo.3822b487.jpeg": "/fook/static/media/fook_logo.3822b487.jpeg",
+    "static/media/usdc_logo.b5121d0d.png": "/fook/static/media/usdc_logo.b5121d0d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.76df8149.js",
-    "static/js/2.8f3b16a8.chunk.js",
+    "static/js/runtime-main.121ef109.js",
+    "static/js/2.afbe5922.chunk.js",
     "static/js/main.db05fb65.chunk.js"
   ]
 }
