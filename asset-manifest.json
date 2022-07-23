@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.81e34783.chunk.js",
-    "main.js.map": "/static/js/main.81e34783.chunk.js.map",
+    "main.js": "/static/js/main.6f887952.chunk.js",
+    "main.js.map": "/static/js/main.6f887952.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.27191575.chunk.js": "/static/js/2.27191575.chunk.js",
-    "static/js/2.27191575.chunk.js.map": "/static/js/2.27191575.chunk.js.map",
+    "static/js/2.9863a0d0.chunk.js": "/static/js/2.9863a0d0.chunk.js",
+    "static/js/2.9863a0d0.chunk.js.map": "/static/js/2.9863a0d0.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.27191575.chunk.js.LICENSE.txt": "/static/js/2.27191575.chunk.js.LICENSE.txt",
+    "static/js/2.9863a0d0.chunk.js.LICENSE.txt": "/static/js/2.9863a0d0.chunk.js.LICENSE.txt",
     "static/media/avax_logo.30dfa545.png": "/static/media/avax_logo.30dfa545.png",
+    "static/media/bnb_logo.0bb49761.png": "/static/media/bnb_logo.0bb49761.png",
+    "static/media/feg_logo.ec53c63e.png": "/static/media/feg_logo.ec53c63e.png",
     "static/media/fook_logo.3822b487.jpeg": "/static/media/fook_logo.3822b487.jpeg",
     "static/media/fusd_logo.a63edb36.png": "/static/media/fusd_logo.a63edb36.png",
     "static/media/fuse_logo.f2df0430.png": "/static/media/fuse_logo.f2df0430.png",
@@ -18,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
-    "static/js/2.27191575.chunk.js",
-    "static/js/main.81e34783.chunk.js"
+    "static/js/2.9863a0d0.chunk.js",
+    "static/js/main.6f887952.chunk.js"
   ]
 }
