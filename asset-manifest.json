@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.486e97f6.chunk.js",
-    "main.js.map": "/static/js/main.486e97f6.chunk.js.map",
+    "main.js": "/static/js/main.0090d202.chunk.js",
+    "main.js.map": "/static/js/main.0090d202.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.ebb8436d.chunk.js": "/static/js/2.ebb8436d.chunk.js",
-    "static/js/2.ebb8436d.chunk.js.map": "/static/js/2.ebb8436d.chunk.js.map",
+    "static/js/2.160cf5d8.chunk.js": "/static/js/2.160cf5d8.chunk.js",
+    "static/js/2.160cf5d8.chunk.js.map": "/static/js/2.160cf5d8.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.ebb8436d.chunk.js.LICENSE.txt": "/static/js/2.ebb8436d.chunk.js.LICENSE.txt",
+    "static/js/2.160cf5d8.chunk.js.LICENSE.txt": "/static/js/2.160cf5d8.chunk.js.LICENSE.txt",
     "static/media/avax_logo.a53707a1.png": "/static/media/avax_logo.a53707a1.png",
     "static/media/bnb_logo.a966017d.png": "/static/media/bnb_logo.a966017d.png",
     "static/media/feg_logo.1670c105.png": "/static/media/feg_logo.1670c105.png",
@@ -19,7 +19,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
-    "static/js/2.ebb8436d.chunk.js",
-    "static/js/main.486e97f6.chunk.js"
+    "static/js/2.160cf5d8.chunk.js",
+    "static/js/main.0090d202.chunk.js"
   ]
 }
