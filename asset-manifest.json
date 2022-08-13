@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.4aed0985.chunk.js",
-    "main.js.map": "/static/js/main.4aed0985.chunk.js.map",
+    "main.js": "/static/js/main.6df0acb5.chunk.js",
+    "main.js.map": "/static/js/main.6df0acb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.7aa05037.chunk.js": "/static/js/2.7aa05037.chunk.js",
-    "static/js/2.7aa05037.chunk.js.map": "/static/js/2.7aa05037.chunk.js.map",
+    "static/js/2.01d825d2.chunk.js": "/static/js/2.01d825d2.chunk.js",
+    "static/js/2.01d825d2.chunk.js.map": "/static/js/2.01d825d2.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.7aa05037.chunk.js.LICENSE.txt": "/static/js/2.7aa05037.chunk.js.LICENSE.txt",
+    "static/js/2.01d825d2.chunk.js.LICENSE.txt": "/static/js/2.01d825d2.chunk.js.LICENSE.txt",
+    "static/media/btc_logo.95c4e708.png": "/static/media/btc_logo.95c4e708.png",
     "static/media/logo.331b4abb.svg": "/static/media/logo.331b4abb.svg",
     "static/media/logo192.bf37cdbc.png": "/static/media/logo192.bf37cdbc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
-    "static/js/2.7aa05037.chunk.js",
-    "static/js/main.4aed0985.chunk.js"
+    "static/js/2.01d825d2.chunk.js",
+    "static/js/main.6df0acb5.chunk.js"
   ]
 }
