@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.6028a609.chunk.js",
-    "main.js.map": "/static/js/main.6028a609.chunk.js.map",
+    "main.js": "/static/js/main.eae5cc40.chunk.js",
+    "main.js.map": "/static/js/main.eae5cc40.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
     "static/js/2.65bf25d0.chunk.js": "/static/js/2.65bf25d0.chunk.js",
@@ -10,9 +10,8 @@
     "static/js/2.65bf25d0.chunk.js.LICENSE.txt": "/static/js/2.65bf25d0.chunk.js.LICENSE.txt",
     "static/media/burnit.a2d805a9.jpeg": "/static/media/burnit.a2d805a9.jpeg",
     "static/media/dgnx.ff6dbd33.jpeg": "/static/media/dgnx.ff6dbd33.jpeg",
-    "static/media/feg_bsc.d7a25d3e.jpeg": "/static/media/feg_bsc.d7a25d3e.jpeg",
-    "static/media/feg_eth.64b61e30.jpeg": "/static/media/feg_eth.64b61e30.jpeg",
     "static/media/fook.ee14acb7.jpeg": "/static/media/fook.ee14acb7.jpeg",
+    "static/media/fsb.c7c1d992.jpeg": "/static/media/fsb.c7c1d992.jpeg",
     "static/media/fud.11bfe713.jpeg": "/static/media/fud.11bfe713.jpeg",
     "static/media/hedgefund.e27d41b1.jpeg": "/static/media/hedgefund.e27d41b1.jpeg",
     "static/media/logo.331b4abb.svg": "/static/media/logo.331b4abb.svg",
@@ -23,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
     "static/js/2.65bf25d0.chunk.js",
-    "static/js/main.6028a609.chunk.js"
+    "static/js/main.eae5cc40.chunk.js"
   ]
 }
