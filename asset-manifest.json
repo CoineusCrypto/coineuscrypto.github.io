@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.a1eb5443.chunk.js",
-    "main.js.map": "/static/js/main.a1eb5443.chunk.js.map",
+    "main.js": "/static/js/main.a2f5d04a.chunk.js",
+    "main.js.map": "/static/js/main.a2f5d04a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.7b49c037.chunk.js": "/static/js/2.7b49c037.chunk.js",
-    "static/js/2.7b49c037.chunk.js.map": "/static/js/2.7b49c037.chunk.js.map",
+    "static/js/2.6093a442.chunk.js": "/static/js/2.6093a442.chunk.js",
+    "static/js/2.6093a442.chunk.js.map": "/static/js/2.6093a442.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.7b49c037.chunk.js.LICENSE.txt": "/static/js/2.7b49c037.chunk.js.LICENSE.txt",
+    "static/js/2.6093a442.chunk.js.LICENSE.txt": "/static/js/2.6093a442.chunk.js.LICENSE.txt",
     "static/media/babykrakens.57e350ff.jpeg": "/static/media/babykrakens.57e350ff.jpeg",
     "static/media/burnit.a2d805a9.jpeg": "/static/media/burnit.a2d805a9.jpeg",
     "static/media/dgnx.ff6dbd33.jpeg": "/static/media/dgnx.ff6dbd33.jpeg",
     "static/media/fook.ee14acb7.jpeg": "/static/media/fook.ee14acb7.jpeg",
     "static/media/fsb.c7c1d992.jpeg": "/static/media/fsb.c7c1d992.jpeg",
-    "static/media/fud.11bfe713.jpeg": "/static/media/fud.11bfe713.jpeg",
     "static/media/hedgefund.e27d41b1.jpeg": "/static/media/hedgefund.e27d41b1.jpeg",
     "static/media/logo.331b4abb.svg": "/static/media/logo.331b4abb.svg",
     "static/media/logo192.bf37cdbc.png": "/static/media/logo192.bf37cdbc.png",
@@ -22,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
-    "static/js/2.7b49c037.chunk.js",
-    "static/js/main.a1eb5443.chunk.js"
+    "static/js/2.6093a442.chunk.js",
+    "static/js/main.a2f5d04a.chunk.js"
   ]
 }
