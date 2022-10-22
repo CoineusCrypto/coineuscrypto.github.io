@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.4581c68a.chunk.js",
-    "main.js.map": "/static/js/main.4581c68a.chunk.js.map",
+    "main.js": "/static/js/main.19e5d9c0.chunk.js",
+    "main.js.map": "/static/js/main.19e5d9c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76df8149.js",
     "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
-    "static/js/2.9dffb348.chunk.js": "/static/js/2.9dffb348.chunk.js",
-    "static/js/2.9dffb348.chunk.js.map": "/static/js/2.9dffb348.chunk.js.map",
+    "static/js/2.b143d40e.chunk.js": "/static/js/2.b143d40e.chunk.js",
+    "static/js/2.b143d40e.chunk.js.map": "/static/js/2.b143d40e.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.9dffb348.chunk.js.LICENSE.txt": "/static/js/2.9dffb348.chunk.js.LICENSE.txt",
+    "static/js/2.b143d40e.chunk.js.LICENSE.txt": "/static/js/2.b143d40e.chunk.js.LICENSE.txt",
     "static/media/babykrakens.57e350ff.jpeg": "/static/media/babykrakens.57e350ff.jpeg",
     "static/media/burnit.a2d805a9.jpeg": "/static/media/burnit.a2d805a9.jpeg",
     "static/media/dgnx.ff6dbd33.jpeg": "/static/media/dgnx.ff6dbd33.jpeg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76df8149.js",
-    "static/js/2.9dffb348.chunk.js",
-    "static/js/main.4581c68a.chunk.js"
+    "static/js/2.b143d40e.chunk.js",
+    "static/js/main.19e5d9c0.chunk.js"
   ]
 }
